@@ -1,5 +1,5 @@
 # Dazzle do not supports ARG TRIGGER_REBUILD=2
-FROM gitpod/workspace-base:latest
+FROM gitpod/workspace-base:latest AS base
 
 RUN echo "ws full starts"
 

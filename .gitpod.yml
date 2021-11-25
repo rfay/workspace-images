@@ -1,4 +1,4 @@
-image: gitpod/workspace-full
+image: randyfay/workspace-full:20211124_single_layer
 
 tasks:
   - command: docker
